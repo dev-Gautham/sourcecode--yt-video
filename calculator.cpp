@@ -33,5 +33,6 @@ int main(){
             cout<<"You have entered a wrong choice! Please enter a valid option";
     }
 
-    return 95;
+    return 0;
+
 }
